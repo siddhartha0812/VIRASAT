@@ -363,7 +363,7 @@ app.innerHTML =
 
         </section>
 
-    </main>
+    </main>                 
     ` +
     footer();
 
