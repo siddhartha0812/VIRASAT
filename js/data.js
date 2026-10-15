@@ -232,4 +232,9 @@ const HERITAGE=[
     code:'ONAM-001'
 }
 ];
-const FACTS=['Chikankari is traditionally associated with Lucknow.','Warli painting uses a beautifully economical language of geometric forms.','Madhubani painting originated in the Mithila region.','Dhokra casting uses a lost-wax process.'];
+const FACTS=[
+    'Chikankari is traditionally associated with Lucknow.',
+    'Warli painting uses a beautifully economical language of geometric forms.',
+    'Madhubani painting originated in the Mithila region.',
+    'Dhokra casting uses a lost-wax process.'
+];
